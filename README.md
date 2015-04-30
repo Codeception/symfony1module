@@ -7,7 +7,16 @@ Uses native symfony connections and test classes. Provides additional informatio
 
 If test fails stores last shown page in 'log' dir.
 
-Please note, this module doesn't implement standard frameworks interface.
+## Installation
+
+In `composer.json`
+
+```
+"require-dev": {
+  "codeception/codeception": "~2.1",
+  "codeception/symfony11module": "*"
+}
+```
 
 ## Status
 
