@@ -14,7 +14,7 @@ In `composer.json`
 ```
 "require-dev": {
   "codeception/codeception": "~2.1",
-  "codeception/symfony11module": "*"
+  "codeception/symfony1module": "*"
 }
 ```
 
