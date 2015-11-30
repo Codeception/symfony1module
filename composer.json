@@ -1,11 +1,15 @@
 {
-    "name": "codeception/symfony1module",
-    "description": "Module for symfony 1.x framework",
+    "name": "lee-kevin/symfony1module",
+    "description": "Fixed Module for symfony 1.x framework",
     "license": "MIT",
     "authors": [
         {
             "name": "Davert",
             "email": "davert.php@resend.cc"
+        },
+        {
+            "name": "Kevin Lee",
+            "email": "lee.kev@me.com"
         }
     ],
     "autoload":{
